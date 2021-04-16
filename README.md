@@ -4,7 +4,7 @@
 
 ## Best Setup Practices
 
-Before running and modifying the scripts to fit your needs, check to see if UFW is installed and running. Also, be aware these are for UFW firewalls. 
+Before running and modifying the scripts to fit your needs, check to see if UFW is installed and running. Also, be aware these are for UFW firewalls. Scripts for IPTables will be posted elsewhere. 
 
 To check and make sure UFW is installed and running, you can use the following;
 
